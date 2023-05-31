@@ -1,0 +1,55 @@
+body{
+    background-image: url(slike/proba1.jpg);
+    background-size: cover;
+     background-position: center;
+     color: white;
+}
+    
+h1{
+    background-color: rgb(231, 4, 4);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 3px 2px 5px black;
+    color: white;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 3px 2px 5px white;
+    color: rgb(231, 4, 4)
+    
+}
+.pomerena-slika {
+    float: right;
+    width: 420px;
+    height: 330px;
+    margin-top: 10px;
+    margin-left: 0px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.druga-slika{
+    float: right;
+    width: 400px;
+    height: 350px;
+    margin-top: -500px;
+    margin-left: 0px;
+    margin right: 500;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(231, 4, 4)
+    text-shadow: 3px 2px 5px white;
+}
+a{
+    border: 1px solid black;
+    padding: 10px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     text-shadow: 3px 2px 5px black;
+     color: white;
+  }
+  p {
+    font-size: 20px;
+  } 
+ul{
+    font-size: 20px;
+}

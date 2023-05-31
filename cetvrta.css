@@ -1,0 +1,80 @@
+body {
+    background-image: url(slike/proba2.jpg);
+    background-size: auto;
+    background-position: center;
+    color: white;
+  }
+  
+  h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 3px 2px 5px white;
+    color: rgb(231, 4, 4);
+  }
+  
+  h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(231, 4, 4);
+    text-shadow: white;
+    font-size: 20px;
+  }
+  
+  a {
+    border: 1px solid black;
+    padding: 10px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 3px 2px 5px black;
+    color: white;
+  }
+  
+  .bordered-table {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+  
+  .bordered-table th,
+  .bordered-table td {
+    border: 1px solid white;
+    padding: 8px;
+  }
+  
+  .image {
+    float: right;
+    width: 400px;
+    height: 350px;
+    margin-top: -400px;
+    margin-left: 200px;
+    margin right: 0;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  .container {
+    display: inline-block;
+  }
+  
+  .bordered-table {
+    border: 1px solid white;
+    border-collapse: collapse;
+    margin: 1000px;
+  }
+  
+  .bordered-table th,
+  .bordered-table td {
+    border: 1px solid white;
+    padding: 8px;
+    margin: 100px;
+  }
+  
+  .image {
+    max-width: 150px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  p {
+    font-size: 20px;
+  } 
+  ul{
+    font-size: 20px;
+  } 

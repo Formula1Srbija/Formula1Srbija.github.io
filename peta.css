@@ -1,0 +1,38 @@
+body{
+    background-image: url(slike/proba2.jpg);
+    background-size: auto;
+     background-position: center;
+     color: white;
+}
+h1{
+    background-color: rgb(231, 4, 4);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 3px 2px 5px black;
+    color: white;  
+}
+h3{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(231, 4, 4)
+    text-shadow: red;
+}
+a{
+    border: 1px solid black;
+    padding: 10px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     text-shadow: 3px 2px 5px black;
+     color: white;
+  }
+.image2{
+    float: right;
+    width: 700px;
+    height: 500px;
+    margin-top: -580px;
+    margin-left: 500px;
+    margin right: 0;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+p {
+    font-size: 20px;
+  } 
